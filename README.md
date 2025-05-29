@@ -30,7 +30,7 @@ Cómo ejecutar el proyecto en Visual Studio Code
 3. Abre la carpeta desde Visual Studio Code.
 4. Abre el archivo `main.py`.
 5. Haz clic en el botón "Run Python File" o presiona F5 para ejecutar.
-6. El programa pedirá que ingreses una matriz de adyacencia:
+6. El programa te preguntara si el grafo es dirijido o no, y despues pedirá que ingreses una matriz de adyacencia:
    - Primero te preguntará cuántos nodos tendrá el grafo.
    - Luego ingresarás cada fila de la matriz, separando los valores con espacios.
 7. Al finalizar, se generará una imagen llamada `grafo_todos_algoritmos.png` con los resultados de los algoritmos.
